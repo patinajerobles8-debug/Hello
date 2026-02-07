@@ -1,0 +1,30 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="390" height="844" rx="40" fill="#F7F5FF" />
+  <text x="24" y="96" font-family="Inter, Arial" font-size="24" font-weight="700" fill="#1F1F1F">Programas</text>
+
+  <rect x="24" y="130" width="342" height="120" rx="18" fill="#FFFFFF" />
+  <text x="40" y="166" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#1F1F1F">Energia Total</text>
+  <text x="40" y="186" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Cardio + fuerza funcional</text>
+  <rect x="280" y="158" width="70" height="22" rx="11" fill="#FBE5F0" />
+  <text x="292" y="174" font-family="Inter, Arial" font-size="10" fill="#E8458B">Intermedia</text>
+
+  <rect x="24" y="266" width="342" height="120" rx="18" fill="#FFFFFF" />
+  <text x="40" y="302" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#1F1F1F">Glúteos & Core</text>
+  <text x="40" y="322" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Tono y resistencia</text>
+  <rect x="280" y="294" width="70" height="22" rx="11" fill="#FBE5F0" />
+  <text x="292" y="310" font-family="Inter, Arial" font-size="10" fill="#E8458B">Bajo impacto</text>
+
+  <text x="24" y="426" font-family="Inter, Arial" font-size="16" font-weight="700" fill="#1F1F1F">Filtros rápidos</text>
+  <rect x="24" y="446" width="110" height="36" rx="18" fill="#FFFFFF" />
+  <text x="42" y="470" font-family="Inter, Arial" font-size="12" fill="#E8458B">Bajo impacto</text>
+  <rect x="144" y="446" width="90" height="36" rx="18" fill="#FFFFFF" />
+  <text x="168" y="470" font-family="Inter, Arial" font-size="12" fill="#E8458B">Cardio</text>
+  <rect x="242" y="446" width="110" height="36" rx="18" fill="#FFFFFF" />
+  <text x="258" y="470" font-family="Inter, Arial" font-size="12" fill="#E8458B">Meditación</text>
+
+  <rect x="0" y="780" width="390" height="64" fill="#FFFFFF" />
+  <circle cx="78" cy="812" r="8" fill="#CFCBD9" />
+  <circle cx="170" cy="812" r="12" fill="#E8458B" />
+  <circle cx="250" cy="812" r="8" fill="#CFCBD9" />
+  <circle cx="318" cy="812" r="8" fill="#CFCBD9" />
+</svg>

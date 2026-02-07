@@ -1,0 +1,26 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="390" height="844" rx="40" fill="#F7F5FF" />
+  <text x="24" y="96" font-family="Inter, Arial" font-size="24" font-weight="700" fill="#1F1F1F">Comunidad</text>
+
+  <rect x="24" y="130" width="342" height="140" rx="18" fill="#FFFFFF" />
+  <circle cx="52" cy="164" r="16" fill="#FBE5F0" />
+  <text x="46" y="168" font-family="Inter, Arial" font-size="12" font-weight="700" fill="#E8458B">A</text>
+  <text x="78" y="168" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#1F1F1F">Andrea</text>
+  <text x="78" y="188" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Hace 2h</text>
+  <text x="40" y="216" font-family="Inter, Arial" font-size="14" fill="#1F1F1F">Hoy completé 30 min y me siento increíble.</text>
+  <text x="40" y="246" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Responder · Compartir</text>
+
+  <rect x="24" y="286" width="342" height="140" rx="18" fill="#FFFFFF" />
+  <circle cx="52" cy="320" r="16" fill="#FBE5F0" />
+  <text x="46" y="324" font-family="Inter, Arial" font-size="12" font-weight="700" fill="#E8458B">M</text>
+  <text x="78" y="324" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#1F1F1F">Meli</text>
+  <text x="78" y="344" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Hace 4h</text>
+  <text x="40" y="372" font-family="Inter, Arial" font-size="14" fill="#1F1F1F">¿Quién se apunta al reto de esta semana?</text>
+  <text x="40" y="402" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Responder · Compartir</text>
+
+  <rect x="0" y="780" width="390" height="64" fill="#FFFFFF" />
+  <circle cx="78" cy="812" r="8" fill="#CFCBD9" />
+  <circle cx="170" cy="812" r="8" fill="#CFCBD9" />
+  <circle cx="250" cy="812" r="12" fill="#E8458B" />
+  <circle cx="318" cy="812" r="8" fill="#CFCBD9" />
+</svg>

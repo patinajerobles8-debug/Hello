@@ -1,0 +1,51 @@
+<svg width="390" height="844" viewBox="0 0 390 844" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="390" height="844" rx="40" fill="#F7F5FF" />
+  <rect x="24" y="60" width="200" height="24" rx="12" fill="#1F1F1F" opacity="0.1" />
+  <text x="24" y="96" font-family="Inter, Arial" font-size="24" font-weight="700" fill="#1F1F1F">Hola, Laura</text>
+  <text x="24" y="124" font-family="Inter, Arial" font-size="14" fill="#6D6B75">Tu energía de hoy</text>
+  <text x="24" y="146" font-family="Inter, Arial" font-size="16" font-weight="600" fill="#3F3D4D">Respira profundo, hoy sumas 1% más.</text>
+
+  <rect x="24" y="174" width="342" height="160" rx="24" fill="url(#grad1)" />
+  <text x="40" y="214" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#FFFFFF">Reto del día</text>
+  <text x="40" y="246" font-family="Inter, Arial" font-size="20" font-weight="700" fill="#FFFFFF">15 min de cardio suave + estiramiento</text>
+  <rect x="40" y="278" width="96" height="28" rx="14" fill="#FFFFFF" opacity="0.25" />
+  <text x="56" y="297" font-family="Inter, Arial" font-size="12" fill="#FFFFFF">Nivel fácil</text>
+  <rect x="256" y="276" width="90" height="34" rx="17" fill="#FFFFFF" />
+  <text x="272" y="298" font-family="Inter, Arial" font-size="12" font-weight="600" fill="#E8458B">Comenzar</text>
+
+  <rect x="24" y="354" width="342" height="120" rx="20" fill="#FFFFFF" />
+  <text x="40" y="384" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#1F1F1F">Tu progreso semanal</text>
+  <text x="40" y="408" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Racha actual</text>
+  <text x="40" y="432" font-family="Inter, Arial" font-size="18" font-weight="700" fill="#1F1F1F">7 días</text>
+  <text x="212" y="408" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Meta</text>
+  <text x="212" y="432" font-family="Inter, Arial" font-size="18" font-weight="700" fill="#1F1F1F">3/5 sesiones</text>
+  <rect x="40" y="448" width="300" height="8" rx="4" fill="#F1E9FF" />
+  <rect x="40" y="448" width="180" height="8" rx="4" fill="#E8458B" />
+
+  <text x="24" y="506" font-family="Inter, Arial" font-size="16" font-weight="700" fill="#1F1F1F">Programas recomendados</text>
+  <rect x="24" y="524" width="342" height="90" rx="18" fill="#FFFFFF" />
+  <text x="40" y="552" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#1F1F1F">Energia Total</text>
+  <text x="40" y="572" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Coach: Laura Fit</text>
+  <text x="40" y="592" font-family="Inter, Arial" font-size="12" fill="#6D6B75">6 semanas · 4 días</text>
+  <rect x="280" y="548" width="70" height="22" rx="11" fill="#FBE5F0" />
+  <text x="292" y="564" font-family="Inter, Arial" font-size="10" fill="#E8458B">Intermedia</text>
+
+  <text x="24" y="642" font-family="Inter, Arial" font-size="16" font-weight="700" fill="#1F1F1F">Check-ins recientes</text>
+  <rect x="24" y="660" width="342" height="80" rx="16" fill="#FFFFFF" />
+  <text x="40" y="688" font-family="Inter, Arial" font-size="12" fill="#6D6B75">Hoy</text>
+  <text x="40" y="708" font-family="Inter, Arial" font-size="14" font-weight="600" fill="#1F1F1F">Terminé mi primera semana completa.</text>
+  <text x="40" y="728" font-family="Inter, Arial" font-size="12" fill="#6D6B75">35 min · 6 vasos</text>
+
+  <rect x="0" y="780" width="390" height="64" fill="#FFFFFF" />
+  <circle cx="78" cy="812" r="12" fill="#E8458B" />
+  <circle cx="170" cy="812" r="8" fill="#CFCBD9" />
+  <circle cx="250" cy="812" r="8" fill="#CFCBD9" />
+  <circle cx="318" cy="812" r="8" fill="#CFCBD9" />
+
+  <defs>
+    <linearGradient id="grad1" x1="24" y1="174" x2="366" y2="334" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6AAE" />
+      <stop offset="1" stop-color="#6E4CF8" />
+    </linearGradient>
+  </defs>
+</svg>

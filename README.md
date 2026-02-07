@@ -7,6 +7,7 @@ Propuesta de app para iPhone inspirada en una experiencia de bienestar y entrena
 - **Programas** con filtros rápidos y detalle de cada plan.
 - **Comunidad** con publicaciones y acciones básicas.
 - **Perfil** con objetivos y preferencias.
+- **Mockups Figma** listos para importar en `figma/`.
 
 ## Estructura
 ```
@@ -16,12 +17,23 @@ BillyUpClone/
 ├── Supporting/
 ├── ViewModels/
 └── Views/
+figma/
+├── billyup_home.svg
+├── billyup_programs.svg
+├── billyup_community.svg
+├── billyup_profile.svg
+└── FIGMA_IMPORT.md
 ```
 
 ## Cómo usar en Xcode
 1. Crea un nuevo proyecto iOS App (SwiftUI).
 2. Reemplaza el contenido generado por los archivos de `BillyUpClone/`.
 3. Asegúrate de añadir los archivos al target principal.
+
+## Cómo importar en Figma
+1. Abre Figma y crea un archivo nuevo.
+2. Arrastra los SVG desde `figma/` al lienzo.
+3. Ajusta textos, colores y componentes según tu necesidad.
 
 ## Nota
 Este es un concepto visual y de flujo; no incluye persistencia ni networking.
