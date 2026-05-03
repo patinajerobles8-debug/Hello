@@ -11,12 +11,17 @@ Estos archivos SVG son mockups editables para que puedas subirlos directamente a
 
 ## Vista previa en Codex o navegador local
 1. Abre `figma/preview.html` para visualizar todas las pantallas juntas.
-2. Si quieres servirlo localmente:
+2. Para lanzarlo en un comando:
+   ```bash
+   cd figma
+   ./open_preview.sh
+   ```
+3. Alternativa manual:
    ```bash
    cd figma
    python3 -m http.server 4173
    ```
-3. Abre `http://localhost:4173/preview.html`.
+4. Abre `http://localhost:4173/preview.html`.
 
 ## Pasos para importar a Figma
 1. Abre Figma y crea un archivo nuevo.
