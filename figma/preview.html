@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BillyUpClone · Vista previa</title>
+  <style>
+    :root { color-scheme: light; }
+    body {
+      margin: 0;
+      font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: #f2f0fa;
+      color: #1f1f1f;
+    }
+    header {
+      position: sticky;
+      top: 0;
+      backdrop-filter: blur(8px);
+      background: rgba(242,240,250,.9);
+      border-bottom: 1px solid #e4dff2;
+      padding: 14px 16px;
+      z-index: 10;
+    }
+    h1 { margin: 0; font-size: 18px; }
+    p { margin: 6px 0 0; color: #5f5a6f; font-size: 14px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 20px;
+      padding: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    .card {
+      background: white;
+      border: 1px solid #ece6f7;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(58, 34, 93, 0.08);
+      padding: 12px;
+    }
+    .card h2 { margin: 4px 0 10px; font-size: 16px; }
+    .phone {
+      width: 100%;
+      aspect-ratio: 390 / 844;
+      border: 1px solid #ddd3ef;
+      border-radius: 22px;
+      overflow: hidden;
+      background: #faf7ff;
+    }
+    .phone object { width: 100%; height: 100%; display: block; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>BillyUpClone · Visualización local</h1>
+    <p>Esta página permite ver los SVG dentro de Codex (sin subir aún a Figma).</p>
+  </header>
+
+  <main class="grid">
+    <section class="card">
+      <h2>Inicio</h2>
+      <div class="phone"><object data="billyup_home.svg" type="image/svg+xml"></object></div>
+    </section>
+
+    <section class="card">
+      <h2>Programas</h2>
+      <div class="phone"><object data="billyup_programs.svg" type="image/svg+xml"></object></div>
+    </section>
+
+    <section class="card">
+      <h2>Comunidad</h2>
+      <div class="phone"><object data="billyup_community.svg" type="image/svg+xml"></object></div>
+    </section>
+
+    <section class="card">
+      <h2>Perfil</h2>
+      <div class="phone"><object data="billyup_profile.svg" type="image/svg+xml"></object></div>
+    </section>
+  </main>
+</body>
+</html>
